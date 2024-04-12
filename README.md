@@ -5,6 +5,7 @@
 <div style="display: inline_block"> <br>
     * Software Enginner <br>
     * Bacharel em Sistemas de informação <br>
+   <br>
 </div>
 
 <div style="display: inline_block"><br>
