@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"> <br>
     * Software Enginner <br>
-    * Bacharel em Sistemas de informação <br>
+    * Bachelor of Information Systems <br>
     * Looking for new challenges <br>
    <br>
 </div>
